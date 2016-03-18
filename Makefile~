@@ -9,7 +9,7 @@ ARC	= libevent_poll.a
 
 LD		= ld
 OBJ		= event.o
-OBJ2		= event_test.o 
+OBJ2	= event_test.o 
 LFLAGS   	=  
 HEADER		= event_poll.h
 TARGET 		= event_test
